@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pkg/dummydb.iml" filepath="$PROJECT_DIR$/pkg/dummydb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gormstart.iml" filepath="$PROJECT_DIR$/gormstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pkg/pkg.iml" filepath="$PROJECT_DIR$/pkg/pkg.iml" />
+    </modules>
+  </component>
+</project>
