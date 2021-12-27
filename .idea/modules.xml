@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/pkg/dummydb.iml" filepath="$PROJECT_DIR$/pkg/dummydb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dummymodule/dummymodule.iml" filepath="$PROJECT_DIR$/dummymodule/dummymodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/gormstart.iml" filepath="$PROJECT_DIR$/gormstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/pkg/pkg.iml" filepath="$PROJECT_DIR$/pkg/pkg.iml" />
     </modules>
